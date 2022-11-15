@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ruslan Lutfullin</h1>
 <h3 align="center">Full Stack/Frontend Developer</h3>
-<img align="left" alt="Coding" width="1000" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
+<img align="left" alt="Coding" width="1000" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 </p>
 
 
